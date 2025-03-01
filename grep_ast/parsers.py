@@ -6,6 +6,7 @@ from .tsl import USING_TSL_PACK
 PARSERS = {
     ".py": "python",
     ".js": "javascript",
+    ".jsx": "javascript",
     ".mjs": "javascript",  # mjs file extension stands for "module JavaScript."
     ".go": "go",
     ".bash": "bash",
